@@ -1,2 +1,2 @@
 # Pendulum_Analysis
-Analysis Of Pendulum Via Incorporating Design, Simulation, And Modeling
+This repository contains a collection of Matlab modules and Solidworks designs to show the analysis of simple dynamic systems known as pendulums.
