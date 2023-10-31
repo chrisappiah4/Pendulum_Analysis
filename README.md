@@ -11,4 +11,6 @@ Equations and parameters used for the Kapitza Pendulum are found at Ahrazoglu, M
 | Simple_Pendulum_Model  | Simulink model of a pendulum that assumes the string as massless and rigid |
 | simple_pendulum  | Pendulum Function that solves differential equations relating a pendulum that assumes the string as massless and rigid  |
 | simple_pendulum_script  | Executes the Simple Pendulum function to generate a graphical representation  |
+| assembly_pendulum_zip  | SOLIDWORKS assembly of a pendulum used to create a real-life figure for study  |
+
 
